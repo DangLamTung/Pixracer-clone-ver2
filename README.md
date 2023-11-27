@@ -1,13 +1,13 @@
 # Pixracer_clone
- Pixhawk clone 
 
  Open source flight controller based on the Pixracer flight controller. The  object of this project is to utilize the spare part I have :))) 
  The Flight controller using 36.5*36.5 FPV racing size, nowaday I think this is the most popular and flexible size for both FPV quadcopter and small-sized fixed wing.
  To make the soldering process easier, I used the smallest footprint is 0603, which can hand-solderable.
  This board will be mainly running Ardupilot firmware, but in the future I will test it with Betaflight and Inav
  This flight controller included these feature:
- 
+ ![Uploading IMG_20231127_151540.jpg…]()
      +  STM32F429VIT6 microcontroller
+
      +  ICM20689 IMU 
      +  BMP280 barometer
      +  AT7456E OSD chip
