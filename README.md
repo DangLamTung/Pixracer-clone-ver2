@@ -15,7 +15,6 @@
 
  
      +  STM32F429VIT6 microcontroller
-
      +  ICM20689 IMU 
      +  BMP280 barometer
      +  AT7456E OSD chip
