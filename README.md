@@ -27,3 +27,6 @@ What can be improve?
      +  The built in buck converter is 5V only, because of space constraint and to make the board atleast hand solderable, I didn't add a 9V buck, this is not ideal for using with 
      HD FPV system, I will add a 9V buck converter in the future.
      +  An ESP-32 or NRF52 wifi or bluetooth would be very nice to have in the next version :)))
+
+Updaded the Inav  firmware and target
+
